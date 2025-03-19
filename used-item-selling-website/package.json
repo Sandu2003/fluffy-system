@@ -1,0 +1,20 @@
+{
+  "name": "used-item-selling-website",
+  "version": "1.0.0",
+  "description": "A website for buying and selling used items.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "used items",
+    "e-commerce",
+    "buy",
+    "sell"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
